@@ -9,8 +9,8 @@ function HomePage() {
         <div className="flex pt-[140px] h-screen flex-col items-center justify-between">
           <div className="flex-1 flex flex-col justify-between w-full">
             <div className="flex flex-col items-center">
-              <Image
-                src={rhapsody_logo}
+              <img
+                src="./assets/imgs/rhapsody_logo.png"
                 alt="Rhapsody Logo"
                 width={250}
                 height={100}
